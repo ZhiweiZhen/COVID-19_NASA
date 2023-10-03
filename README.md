@@ -14,7 +14,8 @@ To run the experiment, set the dictionary to folder "CODE" and create the folder
 ```
 python3 <model_name>.py 
 ```
-All experiments results can be found in folder "OUTPUT"
+
+All experiment results can be found in the folder "OUTPUT"
 
 # DATA
 
