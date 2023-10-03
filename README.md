@@ -2,18 +2,19 @@
 This is a Pytorch implementation of Geometric Deep Learning Models for the task to uncover hidden patterns in Covid-19 with  integrating NASA’s satellite observations.
 
 # Requirement 
-pyTorch
-tqdm
-numpy
-networkx
+pyTorch <br />
+tqdm <br />
+numpy <br />
+networkx 
 
 
 # Training
 
-To run the experiment, set the dictionary to folder CODE.
+To run the experiment, set the dictionary to folder "CODE" and create the folder "OUTPUT".
 ```
 python3 <model_name>.py 
 ```
+All experiments results can be found in folder "OUTPUT"
 
 # DATA
 
