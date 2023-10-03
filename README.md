@@ -2,6 +2,20 @@
 <br />
 This is a Pytorch implementation of Geometric Deep Learning Models for the task to uncover hidden patterns in Covid-19 with  integrating NASA’s satellite observations.
 
+# Requirement 
+pyTorch
+tqdm
+numpy
+networkx
+
+
+# Training
+
+To run the experiment, set the dictionary to folder CODE.
+```
+python3 <model_name>.py 
+```
+
 # DATA
 
 Covid-19:<br />
@@ -17,4 +31,4 @@ Socioeconomic variables:<br />
 We generate a socioeconomic-based network for each state under study using 9 socioeconomic variables. A socioeconomic matrix distance, via the euclidean metric, is usde to build  county-level connections which serve as input to each GNN model. Five variables come from the Centers for Disease Control and Prevention (CDC)/Agency for Toxic Substances and Disease Registry (ATSDR) Social Vulnerability Index: Socioeconomic Status, Household Composition & Disability, Minority Status & Language, Housing Type & Transportation, and Overall Vulnerability Index.The rest of the variables are part of The COVID-19 Vac- cine Coverage Index (CVAC): Historic Undervaccination, Sociodemographic Barriers, Resource-Constrained Healthcare System, and Healthcare Accessibility Barriers.
 
 
-
+# Cite
