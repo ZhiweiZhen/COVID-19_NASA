@@ -4,8 +4,7 @@ This is a Pytorch implementation of Geometric Deep Learning Models for the task 
 
 # DATA
 
-Covid-19:
-<br />
+Covid-19:<br />
 Daily records on COVID-19 and hospitalizations are from CovidActNow project. We follow the guidelines from the Models of Infectious Disease Agent Study (MIDAS) for COVID-19 modeling research. We use daily time series data from February 1 to December 31, 2020. Hospitalization numbers were publicly available for all three states, at a county level.
 
 NASA dataset:
