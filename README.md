@@ -2,14 +2,14 @@
 [Abstract] Virtually all aspects of our societal functioning -- from food security to energy supply to healthcare -- depend on the dynamics of environmental factors.
 Nevertheless, the social dimensions of weather and climate are noticeably less explored by the artificial intelligence community. By harnessing the strength of geometric deep learning (GDL), we aim to investigate the pressing societal question the potential disproportional impacts of air quality on COVID-19 clinical severity. To quantify air pollution, here we use aerosol optical depth (AOD) records which measure the reduction of the sunlight due to atmospheric haze, dust, and smoke. We also introduce unique and not yet broadly available NASA satellite records (NASAdat) on AOD, temperature and relative humidity and discuss the utility of these new data for biosurveillance and climate justice applications, with a specific focus on COVID-19 in the States of Texas and Pennsylvania in USA. The results indicate that, in general, the poorer air quality tends to be associated with higher rates for clinical severity and, in case of Texas, this phenomenon particularly stands out in Texan counties characterized by higher socioeconomic vulnerability. This, in turn, raises a concern of environmental injustice in these socio-economically disadvantaged communities. Furthermore, given that one of NASA's recent long-term commitments is to address such inequitable burden of environmental harm by expanding use of Earth science data such as NASAdat, this project is one of the first steps toward developing a new platform integrating NASA's satellite observations with DL tools for social good.
 
-# Requirement 
+### Requirement 
 PyTorch == 2.0.0 <br />
 tqdm ==  <br />
 numpy <br />
 networkx 
 
 
-# Training
+### Training
 
 To run the experiment, set the dictionary to folder "CODE" and create the folder "OUTPUT".
 ```
