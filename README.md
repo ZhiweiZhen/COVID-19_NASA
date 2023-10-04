@@ -8,10 +8,11 @@ tqdm ==  <br />
 numpy <br />
 networkx 
 
+### Requirements
+Please check therequirements.txt.
 
-### Training
-
-To run the experiment, set the dictionary to folder "CODE" and create the folder "OUTPUT".
+### Test an Example
+To replicate the results, please set the dictionary to the folder "CODE" and create the folder "OUTPUT".
 ```
 python3 <model_name>.py 
 ```
