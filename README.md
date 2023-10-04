@@ -2,8 +2,8 @@
 This is a Pytorch implementation of Geometric Deep Learning Models for the task to uncover hidden patterns in Covid-19 with  integrating NASA’s satellite observations.
 
 # Requirement 
-pyTorch <br />
-tqdm <br />
+PyTorch == 2.0.0 <br />
+tqdm ==  <br />
 numpy <br />
 networkx 
 
