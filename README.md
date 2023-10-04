@@ -1,4 +1,4 @@
-# COVID-19_NASA
+# Environmental Justice and Lessons Learned from COVID-19 Outcomes –1Uncovering Hidden Patterns with Geometric Deep Learning and New NASA2 Satellite Data
 This is a Pytorch implementation of Geometric Deep Learning Models for the task to uncover hidden patterns in Covid-19 with  integrating NASA’s satellite observations.
 
 # Requirement 
