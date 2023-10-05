@@ -21,3 +21,5 @@ NASA’s Distributed Active Archive Centers (DAAC) servers provide publicly avai
 
 #### Socioeconomic Variables
 We generate a socioeconomic-based network for each state under study using 9 socioeconomic variables. A socioeconomic matrix distance, via the euclidean metric, is used to build county-level connections which serve as input to each model. Five variables from the Centers for Disease Control and Prevention (CDC)/Agency for Toxic Substances and Disease Registry (ATSDR) Social Vulnerability Index: Socioeconomic Status, Household Composition & Disability, Minority Status & Language, Housing Type & Transportation, and Overall Vulnerability Index.The rest of the variables are part of The COVID-19 Vaccine Coverage Index (CVAC): Historic Undervaccination, Sociodemographic Barriers, Resource-Constrained Healthcare System, and Healthcare Accessibility Barriers.
+
+#### References
