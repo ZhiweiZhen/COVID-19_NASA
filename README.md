@@ -6,12 +6,10 @@ Nevertheless, the social dimensions of weather and climate are noticeably less e
 Please check the Requirements.txt.
 
 ### Test an Example
-To replicate the results, please set the dictionary to the folder "CODE" and create the folder "OUTPUT".
+To replicate the results, please set the dictionary to the folder "CODE" and create the folder "OUTPUT". All experiment results can be found in the folder "OUTPUT".
 ```
 python3 <model_name>.py 
 ```
-
-All experiment results can be found in the folder "OUTPUT"
 
 ### Datasets
 
