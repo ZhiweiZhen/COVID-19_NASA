@@ -25,9 +25,9 @@ We generate a socioeconomic-based network for each state under study using 9 soc
 #### References
 A3TGCN from Bai et al.: A3t-gcn: Attention temporal graph convolutional network for traffic forecasting (ISPRS 2021)  <br />
 DCRNN from Li et al.: Diffusion convolutional recurrent neural network: Data-driven traffic forecasting (arXiv 2017)  <br />
-DyGrEncoder from Taheri et al.: Predictive temporal embedding of dynamic graphs (IEEE/ACM 2019)__
-EvolveGCNO and EvolveGCNH from Pareja et al.: EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020)__
-GconvLSTM from Seo et al.: Structured sequence modeling with graph convolutional recurrent networks (ICONIP 2018)__
-LRGCN from Li et al.: Predicting path failure in time-evolving graphs (KDD 2019)__
-LSTM from Hochreiter et al.: Long Short-Term Memory (Neural Comput. 1997)__
+DyGrEncoder from Taheri et al.: Predictive temporal embedding of dynamic graphs (IEEE/ACM 2019)  <br />
+EvolveGCNO and EvolveGCNH from Pareja et al.: EvolveGCN: Evolving Graph Convolutional Networks for Dynamic Graphs (AAAI 2020)  <br />
+GconvLSTM from Seo et al.: Structured sequence modeling with graph convolutional recurrent networks (ICONIP 2018)  <br />
+LRGCN from Li et al.: Predicting path failure in time-evolving graphs (KDD 2019)  <br />
+LSTM from Hochreiter et al.: Long Short-Term Memory (Neural Comput. 1997)  <br />
 MPNNLSTM from Panagopoulos et al.: Transfer Graph Neural Networks for Pandemic Forecasting (AAAI 2021)
